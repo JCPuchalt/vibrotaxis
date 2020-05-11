@@ -1,8 +1,9 @@
 ## c-elegans vibrotaxis
 This is a new method for improving C. elegans deteccion, and it is described in research article:
-[1] "xxxxxxxxxxxxxxxxxx" Scientific Rexxxxx
+[1] "Reducing results variance in lifespan machines: an analysis of the influence of vibrotaxis on wild-type Caenorhabditis elegans for the death criterion" REVIEW XXXXxxxxx
 Copyright (c) 2020 UPV. J.Puchalt, A.Sánchez, xxxxxx
 ### Research article
+REFERENCE
 
 ### c-elegans vision system
 This method uses code and hardware developed in:
@@ -28,4 +29,9 @@ Puchalt JC, Sánchez-Salmerón AJ, Martorell Guerola P, Genovés Martínez S (20
 * It is described in document https://github.com/AntonioJoseSanchezSalmeron/lifespan
 
 #### Hardware description on [1]
+In this repository are the .stl files to print in 3D printer. 
+* elasticPiece.stl (print with elastic material)
+* motorHolder.stl (print with PLA)
+* rigidPiece.stl (print with PLA)
 
+Then assemby vibration system and adjust to vision system as follow https://github.com/JCPuchalt/vibrotaxis/blob/master/Vibrator%20assemby.pdf
