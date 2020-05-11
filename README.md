@@ -2,7 +2,7 @@
 This is a new method for improving C. elegans deteccion, and it is described in research article [1].
 This method uses code and hardware developed for vision system inspection [2] and for c-elegans detection [3]
 
-### Research article
+### Research article [1]
 [1] "Reducing results variance in lifespan machines: an analysis of the influence of vibrotaxis on wild-type Caenorhabditis elegans for the death criterion" REVIEW XXXXxxxxx
 Copyright (c) 2020 UPV. J.Puchalt, A.Sánchez, xxxxxx
 
