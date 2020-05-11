@@ -1,26 +1,17 @@
 ## c-elegans vibrotaxis
-This is a new method for improving C. elegans deteccion, and it is described in research article:
+This is a new method for improving C. elegans deteccion, and it is described in research article [1].
+This method uses code and hardware developed for vision system inspection [2] and for c-elegans detection [3]
+
+### Research article
 [1] "Reducing results variance in lifespan machines: an analysis of the influence of vibrotaxis on wild-type Caenorhabditis elegans for the death criterion" REVIEW XXXXxxxxx
 Copyright (c) 2020 UPV. J.Puchalt, A.Sánchez, xxxxxx
-### Research article
-REFERENCE
 
-### c-elegans vision system
-This method uses code and hardware developed in:
-[2] "Active backlight for automating visual monitoring: an analysis of a lighting
-control technique for Caenorhabditis elegans cultured on standard Petri plates" PLOS ONE
-Copyright (c) 2018 UPV and Biopolis. J.Puchalt, A.Sánchez, P.Martorell and S.Genovés
+### Research article [2]
+[2] Puchalt JC, Sánchez-Salmerón AJ, Martorell Guerola P, Genovés Martínez S (2019) Active backlight for automating visual monitoring: An analysis of a lighting control technique for Caenorhabditis elegans cultured on standard Petri plates. PLOS ONE 14(4): e0215548. https://doi.org/10.1371/journal.pone.0215548
 
-#### Research article [2]
-Puchalt JC, Sánchez-Salmerón AJ, Martorell Guerola P, Genovés Martínez S (2019) Active backlight for automating visual monitoring: An analysis of a lighting control technique for Caenorhabditis elegans cultured on standard Petri plates. PLOS ONE 14(4): e0215548. https://doi.org/10.1371/journal.pone.0215548
-
-### c-elegans detection
-This method uses code in:
+### Research article [3]
 [3] "Improving lifespan automation for Caenorhabditis elegans by using image processing and a post-processing adaptive data filter" Scientific Reports
 Copyright (c) 2020 UPV and Biopolis. J.Puchalt, A.Sánchez, E.Ivorra, R.Martínez, S.Genovés and P.Martorell
-
-#### Research article [3]
-Puchalt JC, Sánchez-Salmerón AJ, Martorell Guerola P, Genovés Martínez S (2019) Active backlight for automating visual monitoring: An analysis of a lighting control technique for Caenorhabditis elegans cultured on standard Petri plates. PLOS ONE 14(4): e0215548. https://doi.org/10.1371/journal.pone.0215548
 
 #### Hardware and code description on [2]
 * It is described in document https://github.com/JCPuchalt/c-elegans_smartLight
