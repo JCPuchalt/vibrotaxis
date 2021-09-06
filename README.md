@@ -3,8 +3,7 @@ This is a new method for improving C. elegans deteccion, and it is described in 
 This method uses code and hardware developed for vision system inspection [2] and for c-elegans detection [3]
 
 ### Research article [1]
-[1] "Reducing results variance in lifespan machines: an analysis of the influence of vibrotaxis on wild-type Caenorhabditis elegans for the death criterion" REVIEW XXXXxxxxx
-Copyright (c) 2020 UPV. J.Puchalt, A.Sánchez, xxxxxx
+[1] Puchalt JC, Layana Castro PE, Sánchez-Salmerón A-J. Reducing Results Variance in Lifespan Machines: An Analysis of the Influence of Vibrotaxis on Wild-Type Caenorhabditis elegans for the Death Criterion. Sensors. 2020; 20(21):5981. https://doi.org/10.3390/s20215981
 
 ### Research article [2]
 [2] Puchalt JC, Sánchez-Salmerón AJ, Martorell Guerola P, Genovés Martínez S (2019) Active backlight for automating visual monitoring: An analysis of a lighting control technique for Caenorhabditis elegans cultured on standard Petri plates. PLOS ONE 14(4): e0215548. https://doi.org/10.1371/journal.pone.0215548
